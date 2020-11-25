@@ -12148,6 +12148,22 @@ a {
 .cid-shetKVbamv img {
   width: 100%;
 }
+.cid-shomLeZx52 {
+  padding-top: 2rem;
+  padding-bottom: 1rem;
+  background-color: #ffffff;
+}
+@media (max-width: 991px) {
+  .cid-shomLeZx52 .image-wrapper {
+    margin-bottom: 1rem;
+  }
+}
+.cid-shomLeZx52 .row {
+  flex-direction: row-reverse;
+}
+.cid-shomLeZx52 img {
+  width: 100%;
+}
 .cid-shdQny5vUQ {
   padding-top: 0rem;
   padding-bottom: 0rem;
