@@ -48,7 +48,7 @@
         "url": "https://fonts.googleapis.com/css?family=IBM+Plex+Sans:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i"
       }
     ],
-    "uniqCompNum": 532,
+    "uniqCompNum": 535,
     "versionPublish": "5.2.0",
     "imageResize": true,
     "screenshot": "screenshot.png",
@@ -21099,6 +21099,22 @@
           "_params": {}
         },
         {
+          "alias": "witsec-code-editor/components",
+          "_isSecondary": true,
+          "_styles": {},
+          "_name": "witsec-html-block",
+          "_sourceTheme": "mobirise5",
+          "_customHTML": "<div style=\"width:100%;height:0;padding-bottom:56%;position:relative;\"><iframe src=\"https://giphy.com/embed/K3MHm9LRPsePUyri0g\" width=\"100%\" height=\"100%\" style=\"position:absolute\" frameBorder=\"0\" class=\"giphy-embed\" allowFullScreen></iframe></div><p><a href=\"https://giphy.com/gifs/K3MHm9LRPsePUyri0g\">via GIPHY</a></p>",
+          "_cid": "sjm5rVU7l4",
+          "_anchor": "witsec-html-block-eu",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
           "alias": false,
           "_styles": {
             "padding-top": "(@paddingTop * 1rem)",
@@ -21256,6 +21272,22 @@
           "_params": {}
         },
         {
+          "alias": "witsec-code-editor/components",
+          "_isSecondary": true,
+          "_styles": {},
+          "_name": "witsec-html-block",
+          "_sourceTheme": "mobirise5",
+          "_customHTML": "<div style=\"width:100%;height:0;padding-bottom:56%;position:relative;\"><iframe src=\"https://giphy.com/embed/DMBcPrmdpoTDdR2DMG\" width=\"100%\" height=\"100%\" style=\"position:absolute\" frameBorder=\"0\" class=\"giphy-embed\" allowFullScreen></iframe></div><p><a href=\"https://giphy.com/gifs/DMBcPrmdpoTDdR2DMG\">via GIPHY</a></p>",
+          "_cid": "sjm5pU3Te3",
+          "_anchor": "witsec-html-block-et",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
           "alias": false,
           "_styles": {
             "padding-top": "(@paddingTop * 1rem)",
@@ -21274,6 +21306,22 @@
           "_anchor": "content6-ed",
           "_isUserblock": true,
           "_cid": "siI4aVELZ6",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "alias": "witsec-code-editor/components",
+          "_isSecondary": true,
+          "_styles": {},
+          "_name": "witsec-html-block",
+          "_sourceTheme": "mobirise5",
+          "_customHTML": "<iframe src=\"https://giphy.com/embed/QWURv8MqyjN4OjyFJa\" width=\"580\" height=\"500\" frameBorder=\"0\" class=\"giphy-embed\" allowFullScreen></iframe><p><a href=\"https://giphy.com/gifs/QWURv8MqyjN4OjyFJa\">via GIPHY</a></p>",
+          "_cid": "sjlZNqhQ8v",
+          "_anchor": "witsec-html-block-es",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
           "_protectedParams": [],
           "_global": false,
           "_once": false,
